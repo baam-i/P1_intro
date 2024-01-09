@@ -1,2 +1,4 @@
 /curso
 prueba.db
+__pycache__
+db.squlite3
